@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "BloodHound Test",
+    "owner": "Moti",
+    "description": "Threat Dragon testing"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Moti Diagram test",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Moti"
+  }
+}
